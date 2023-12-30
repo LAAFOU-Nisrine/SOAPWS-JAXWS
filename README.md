@@ -12,7 +12,7 @@ Le but de cette activite est de comprendre comment créer, déployer et utiliser
 4. Tester les opérations du web service avec un outil comme SoapUI ou Oxygen.
 5. Créer un Client SOAP Java.
 
-<img width="508" alt="Screenshot 2023-10-17 220836" src="https://github.com/Ikramouslih/SOAPWS-JAXWS/assets/60039200/b896a4ad-1368-443b-b64c-cfd4718032dc">
+<img width="508" alt="Screenshot 2023-10-17 220836" src="https://github.com/LAAFOU-Nisrine/SOAPWS-JAXWS/assets/60039200/b896a4ad-1368-443b-b64c-cfd4718032dc">
 
 
 => Vidéo à utiliser comme ressource principale : https://www.youtube.com/watch?v=ig5UHI12HPs
