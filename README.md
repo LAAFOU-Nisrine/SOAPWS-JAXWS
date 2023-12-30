@@ -1,4 +1,4 @@
-# JEE-Activite-1 / SOAPWS-JAXWS
+#  SOAPWS-JAXWS
 
 Le but de cette activite est de comprendre comment créer, déployer et utiliser un service web SOAP en utilisant JaxWS.
 
